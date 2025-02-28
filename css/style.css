@@ -21,6 +21,10 @@ header {
     border-bottom: 2px solid #ff9933;
 }
 
+.a-btn-blue {
+    color: #854836;   
+}
+
 .site-title {
     font-size: 2.5em;
     font-weight: bold;
