@@ -2,9 +2,9 @@
     display: inline-block;
     padding: 10px 20px;
     font-size: 16px;
-    color: #fff;
-    background-color: #000;
-    border: 1px solid #d4af37;
+    color: #D1F8EF;
+    background-color: #73C7C7;
+    border: 1px solid #fff;
     text-transform: uppercase;
     font-weight: bold;
     letter-spacing: 1px;
@@ -14,5 +14,5 @@
 
 .button:hover {
     background-color: #d4af37;
-    color: #000;
+    color: #D1F8EF;
 }
