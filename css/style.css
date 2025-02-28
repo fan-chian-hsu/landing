@@ -41,7 +41,7 @@ header {
 
 .nav-menu li a {
     text-decoration: none;
-    color: #ff6600;
+    color: #854836;
     font-weight: bold;
     padding: 5px 10px;
     transition: 0.3s;
@@ -59,7 +59,7 @@ section {
 h2 {
     font-size: 2em;
     margin-bottom: 20px;
-    color: #ff6600;
+    color: #F8F3D9;
 }
 
 img {
